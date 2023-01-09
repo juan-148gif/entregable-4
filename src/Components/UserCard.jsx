@@ -10,7 +10,6 @@ const handleEdit = () =>{
 }
 
 
-
   return (
     <article className='card'>
         <h3 className='card_tittle'>{user.first_name} {user.last_name}</h3>
